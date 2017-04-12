@@ -9,6 +9,11 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>gdgdfg.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>9</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
@@ -23,6 +28,11 @@
 			<true/>
 		</dict>
 		<key>115C7E631E9C64B300C1B296</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>116688DD1E9DCAAC00C6A953</key>
 		<dict>
 			<key>primary</key>
 			<true/>
